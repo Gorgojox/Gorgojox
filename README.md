@@ -1,6 +1,7 @@
 ### Hola a Todos! mi Nombre es Jorge Luis Marchena y Actualmente me encuentro incursionando  en el maravilloso mundo del desarrollo web 👋
 <hr>
 <head>
+<link href="style.css" rel="stylesheet">
 <h1>Jorge Marchena, Junior en Formación </h1>
 </head>
 
@@ -12,10 +13,17 @@
 
 Me pueden encontrar en mis redes sociales como:
 
-<a href="https://twitter.com/Jorge_Etdark"> Twitter // X </a>
+<div class="buttons"> 
+
+<a class="linksm" href="https://twitter.com/Jorge_Etdark"> Twitter // X </a>
+</br> 
+</div>
+<div class="buttons"> 
+<a class="linksm" href="https://www.instagram.com/jorge_etdark/?hl=es"> Instagram</a>
 </br>
-<a href="https://www.instagram.com/jorge_etdark/?hl=es"> Instagram</a>
+</div>
+<div class="buttons"> 
+<a class="linksm" href="https://www.facebook.com/jorgeluis.marchenadiaz.1"> Facebook</a>
 </br>
-<a href="https://www.facebook.com/jorgeluis.marchenadiaz.1"> Facebook</a>
-</br>
+</div>
 
